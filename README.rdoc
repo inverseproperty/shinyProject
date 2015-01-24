@@ -1,0 +1,10 @@
+this is my first project making a shiny app for Coursera Class "Developing Data Products."
+
+there is a select input button with some tall and not tall items, 
+selecting one will print the item and it's height
+
+there is a plot showing the age to height ratio/growth chart of Loblolly trees.
+the associated slidebar is adjustable and will print the age and associated height,
+as well as adjust the height of the line to match the quadratic average of the curve.
+
+It's not amazing but it's silly.
